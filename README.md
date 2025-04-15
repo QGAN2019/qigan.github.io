@@ -1,5 +1,5 @@
 # Academic Pages
-**Qi Gan**
+**Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
