@@ -1,5 +1,5 @@
 ---
-title: "To do"
+title: "Sparse Decoding and Latent Extrapolation for Faithful Explanations of Time Series black box Model"
 collection: publications
 category: conferences
 permalink: /publication/2025-02-XAI-time-series
