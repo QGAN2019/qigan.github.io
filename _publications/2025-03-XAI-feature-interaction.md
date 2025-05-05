@@ -1,5 +1,5 @@
 ---
-title: "To do"
+title: "FICA: Feature Interaction Component Analysis of Tabular Data"
 collection: publications
 category: conferences
 permalink: /publication/2025-03-XAI-feature-interaction
