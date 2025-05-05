@@ -1,5 +1,5 @@
 ---
-title: "To do"
+title: "Feature Impact Analysis on Top Long-Jump Performances with Quantile Random Forest and Explainable AI Techniques"
 collection: publications
 category: conferences
 permalink: /publication/2025-02-XAI-biomechanical-features
