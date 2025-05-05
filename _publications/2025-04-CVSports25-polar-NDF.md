@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-04-CVSports25-polar-NDF
 excerpt: 'This paper is about learning 2D pose prior with polar coordiante-based neural distance field.'
 date: 2025-04-01
-venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
+venue: 'CVPRW'
 paperurl: ''
 citation: 'Gan, Q., Nguyen, S. M., Fenaux, E., Clémençon, S., and El-Yacoubi, M. A., Polar Coordinate-Based 2D Pose Prior with Neural Distance Field.'
 ---
