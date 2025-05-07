@@ -1,9 +1,9 @@
 ---
-title: "Polar Coordinate-Based 2D Pose Prior with Neural Distance Field"
+title: "Polar Coordinate-Based 2D Pose Prior with Neural Distance Fields"
 collection: publications
 category: conferences
 permalink: /publication/2025-04-CVSports25-polar-NDF
-excerpt: 'This paper is about learning 2D pose prior with polar coordiante-based neural distance field.'
+excerpt: 'This paper is about learning 2D pose prior with polar coordiante-based neural distance fields.'
 date: 2025-04-01
 venue: 'CVPRW'
 paperurl: 'http://arxiv.org/abs/2505.03445'
