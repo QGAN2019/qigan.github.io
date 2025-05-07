@@ -5,8 +5,8 @@ category: conferences
 permalink: /publication/2025-02-XAI-time-series
 excerpt: 'This paper is about interpreting time series.'
 date: 2025-03-01
-venue: 'To do'
-citation: 'To do'
+venue: ''
+citation: ''
 ---
 Time series interpretation.
 
