@@ -1,5 +1,5 @@
 ---
-title: "Sparse Decoding and Latent Extrapolation for Faithful Explanations of Time Series black box Model"
+title: "TimeSAE: Sparse Decoding for Faithful Explanations of Black-Box Time Series Models"
 collection: publications
 category: conferences
 permalink: /publication/2025-02-XAI-time-series
