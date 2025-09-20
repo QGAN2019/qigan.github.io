@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I completed my PhD in LTCI of Télécom Paris, Institut Polytechnique de Paris (IP Paris). In my PhD project, I co-work with Prof. [Stephan Clémençon](https://perso.telecom-paristech.fr/clemenco/), [Sao Mai Nguyen](http://nguyensmai.free.fr/Home.html), Prof. [Mounîm El-Yacoubi](https://elyacoubi.wp.imt.fr/), [Eric Fenaux](https://www.linkedin.com/in/eric-fenaux-29013733/) and [Ons Jelassi](https://ojelassi.wp.imt.fr/).
+I recently completed my PhD in the LTCI lab at Télécom Paris, part of Institut Polytechnique de Paris. My research lies at the intersection of computer vision and explainable AI (XAI), with a focus on analyzing human motion.
 
-The project focuses on the analysis and interpretation of human motions with a particular interest in sports-related motions. We investigated computer vision methods for estimating human poses from sports competition videos and eXplainable AI (XAI) methods for the interpretation of human movements.
+Under the supervision of Prof. [Stephan Clémençon](https://perso.telecom-paristech.fr/clemenco/) and in collaboration with Prof. [Sao Mai Nguyen](http://nguyensmai.free.fr/Home.html), Prof. [Mounîm El-Yacoubi](https://elyacoubi.wp.imt.fr/), [Eric Fenaux](https://www.linkedin.com/in/eric-fenaux-29013733/), and [Ons Jelassi](https://ojelassi.wp.imt.fr/), my project addressed the challenge of interpreting complex, sports-related motions. This involved:
 
-I am currently actively pursuing postdoctoral opportunities.
+*   Developing computer vision methods for robust human pose estimation from sports competition videos.
+*   Designing and applying eXplainable AI (XAI) techniques to make the decision-making process of AI models for movement analysis transparent and actionable.
+
+I am currently actively pursuing postdoctoral opportunities to continue my work in computer vision, machine learning, and their applications for understanding human behavior.
